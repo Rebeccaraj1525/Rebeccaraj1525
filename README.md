@@ -1,6 +1,6 @@
 # Hi there, I'm Rebecca Raj A 👋
 
-🎓 MCA Student | Aspiring Data Analyst & Data Scientist| Aspiring Data Analyst & Data Scientist
+🎓 MCA Student | Aspiring Data Analyst & Data Scientist
 📍 India | 💡 Turning data into meaningful insights
 
 ---
