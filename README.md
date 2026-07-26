@@ -1,14 +1,14 @@
 # Hi there, I'm Rebecca Raj A 👋
 
-🎓 BCA Graduate | Aspiring Data Analyst & Data Scientist
+🎓 MCA Student | Aspiring Data Analyst & Data Scientist| Aspiring Data Analyst & Data Scientist
 📍 India | 💡 Turning data into meaningful insights
 
 ---
 
 ## 🚀 About Me
 
-I am a BCA graduate currently building my career in Data Science 
-and Analytics. I work with Python, Pandas, SQL and Matplotlib to 
+I am an MCA student currently building my career in Data Science 
+and Analytics.I work with Python, Pandas, SQL and Matplotlib to 
 analyse real-world datasets and extract business insights. 
 I am passionate about telling stories through data and building 
 projects that solve real problems.
